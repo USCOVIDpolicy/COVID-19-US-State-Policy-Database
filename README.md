@@ -4,7 +4,7 @@ The COVID-19 US State Policy Database tracks the dates when each US state implem
 
 We are working quickly to go through state government websites to make the policy database as complete and accurate as possible in a rapidly changing policy context. If you use data on a given policy, we encourage you to triangulate based on additional sources of policy data and to review the source documentation to consider the coding decisions that are right for your work. Of course, please email us if you note a discrepancy so we can improve the database for everyone.
 
-Source documentation can be found at this link: tinyurl.com/statepolicysources
+Source documentation can be found at this link: www.tinyurl.com/statepolicysources
 
 Suggested Citation:
 Raifman J, Nocka K, Jones D, Bor J, Lipson S, Jay J, and Chan P. (2020). "COVID-19 US state policy database." Available at: www.tinyurl.com/statepolicies
