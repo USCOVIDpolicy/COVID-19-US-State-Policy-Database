@@ -17,7 +17,7 @@ Assistant Professor
 Department of Health Law, Policy & Management	
 Boston University School of Public Health	
 	
-Kristen Nocka;	knocka@bu.edu
-Research Fellow	
+Rachel Scheckman;	rscheckm@bu.edu
+Research Assistant	
 Department of Health Law, Policy & Management
 Boston University School of Public Health	
