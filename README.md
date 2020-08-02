@@ -11,10 +11,13 @@ Suggested Citation: Raifman J, Nocka K, Jones D, Bor J, Lipson S, Jay J, and Cha
 
 Lead contacts for questions or suggested modifications:
 
-Julia Raifman; jraifman@bu.edu 
-Assistant Professor Department of Health Law, Policy & Management 
-Boston University School of Public Health
+Julia Raifman;	jraifman@bu.edu
+Assistant Professor	
+Department of Health Law, Policy & Management	
+Boston University School of Public Health	
+	
+Rachel Scheckman;	rscheckm@bu.edu
+Research Assistant	
+Department of Health Law, Policy & Management
+Boston University School of Public Health	
 
-Rachel Scheckman; rscheckm@bu.edu 
-Research Assistant Department of Health Law, Policy & Management 
-Boston University School of Public Health
