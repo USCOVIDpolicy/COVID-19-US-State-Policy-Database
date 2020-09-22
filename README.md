@@ -17,7 +17,10 @@ Department of Health Law, Policy & Management
 Boston University School of Public Health	
 	
 Rachel Scheckman;	rscheckm@bu.edu
-Research Assistant	
+Database Manager	
 Department of Health Law, Policy & Management
 Boston University School of Public Health	
 
+Funding
+Robert Wood Johnson Foundation Evidence for Action 
+Boston University Clinical & Translational Science Institute
