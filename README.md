@@ -16,8 +16,8 @@ Assistant Professor
 Department of Health Law, Policy & Management	
 Boston University School of Public Health	
 	
-Rachel Scheckman;	rscheckm@bu.edu
-Database Manager	
+Alexandra Skinner;	skinnera@bu.edu
+Research Fellow & Database Manager	
 Department of Health Law, Policy & Management
 Boston University School of Public Health	
 
