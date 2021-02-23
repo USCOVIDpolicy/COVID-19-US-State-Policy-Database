@@ -22,4 +22,4 @@ Department of Health Law, Policy & Management
 Boston University School of Public Health	
 
 Funding:
-Robert Wood Johnson Foundation Evidence for Action, Boston University Clinical & Translational Science Institute
+Robert Wood Johnson Foundation Evidence for Action, Boston University Clinical & Translational Science Institute, The Pew Charitable Trusts (COVID-19 housing & utilities policy research only)
